@@ -10,4 +10,6 @@ A nice way to provide direct link to a static file here on GitHub is the followi
 
 So for example, if I want to share a direct link to my european format resume, the link would be:
 
-https://raw.githubusercontent.com/galassie/resume/master/EuropeanFormat/CV-IT.pdf
+https://raw.githubusercontent.com/galassie/resume/master/european-format/CV-IT.pdf
+
+https://raw.githubusercontent.com/galassie/resume/master/pdf-format/CV%20-%20ENG.pdf
